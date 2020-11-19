@@ -1,0 +1,5 @@
+classes=9
+train=/home/zlm/dataset/SMD/frame_space_5/ImageSets/train-onshore-test-onboard/train.txt
+valid=/home/zlm/dataset/SMD/frame_space_5/ImageSets/train-onshore-test-onboard/val.txt
+test=/home/zlm/dataset/SMD/frame_space_5/ImageSets/train-onshore-test-onboard/test.txt
+names=data/SMD.names

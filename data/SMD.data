@@ -1,0 +1,5 @@
+classes=9
+train=/home/zlm/dataset/SMD/frame_space_5/ImageSets/Main/train.txt
+valid=/home/zlm/dataset/SMD/frame_space_5/ImageSets/Main/val.txt
+test=/home/zlm/dataset/SMD/frame_space_5/ImageSets/Main/test.txt
+names=data/SMD.names

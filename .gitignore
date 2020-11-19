@@ -1,0 +1,10 @@
+__pycache__/
+utils/__pycache__/
+data/samples/
+marveltest/
+output/
+runs/
+weights/
+outpu.txt
+README_yolo.md
+.gitignore copy
